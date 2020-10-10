@@ -2,7 +2,7 @@
 # vim: ft=yaml
 ---
 # example docker registry container
-# if you want to your own docker registry, use this
+# if you want to your own docker registry, use this:
 docker-containers:
   lookup:
 
